@@ -1,6 +1,6 @@
 # Columbia RoboSub
 
-> **Placeholder:** CURC logo.
+![Columbia University Robotics Club logo](./assets/logo.svg)
 
 CURC is a student organization of Columbia University that competes in multiple robotics competitions. Learn more about the team and our projects on our [website](https://columbiarobotics.club/).
 

@@ -1,6 +1,8 @@
 # Columbia RoboSub
 
-![Columbia University Robotics Club logo](./assets/logo.svg)
+<p align="left">
+  <img src="./assets/logo.svg" alt="CURC — Columbia University Robotics Club" width="350" height="72">
+</p>
 
 CURC is a student organization of Columbia University that competes in multiple robotics competitions. Learn more about the team and our projects on our [website](https://columbiarobotics.club/).
 
